@@ -1,1 +1,15 @@
+Step 1: Review Core Global Objects
 
+Here's a brief overview of the 11 core global objects you mentioned:
+
+http: Used for creating HTTP servers and clients for making network requests.
+events: Provides an event emitter class to handle asynchronous operations.
+filesystem (fs): Provides functions for interacting with the file system (reading, writing, deleting files).
+console: Used to print messages to the terminal (stdout and stderr).
+buffer: Represents raw binary data efficiently.
+globals: Reference to the global object itself (generally discouraged to use directly).
+stream: Provides an abstraction for handling continuous flows of data.
+url: Used for parsing and manipulating URLs.
+path: Provides utilities for working with file and directory paths.
+os: Provides information about the operating system.
+process: Provides information and control over the current Node.js process.
